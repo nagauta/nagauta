@@ -1,5 +1,5 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
-I like to build Software. I like to listen, play and compose music.
+I like to build software. I like to listen, play and compose music.
 
 ### Contributing...
 
@@ -8,7 +8,7 @@ https://github.com/raycast/extensions
 * I proposed some snippets...
 https://github.com/raycast/snippet-explorer
 
-### info
+### Information
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=nagauta&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagauta&layout=compact&theme=tokyonight" />
