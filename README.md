@@ -1,4 +1,11 @@
-### Hi I'm nagauta, software engneer in Tokyo 😴
+## Hi I'm nagauta, software engneer in Tokyo 😴
+
+### Contributing...
+
+* Chatwork Search
+https://github.com/raycast/extensions
+* I proposed some snippets...
+https://github.com/raycast/snippet-explorer
 
 ### info
 <p align="left"> 
