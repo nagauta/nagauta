@@ -1,4 +1,5 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
+I like to build Software. I like to listen, play and compose music.
 
 ### Contributing...
 
