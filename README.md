@@ -7,7 +7,7 @@ I like to build software. I like to listen, play and compose music.
   * Chatwork Search(creator)
   * Sequel Ace(creator)
   * TablePlus(contoributor)
-[Raycast Store]([](https://www.raycast.com/nagauta))
+[Raycast Store](https://www.raycast.com/nagauta)
 
 * [Snippet Explorer](https://github.com/raycast/snippet-explorer)
   * I proposed some snippets...
