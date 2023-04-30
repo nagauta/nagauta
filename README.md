@@ -4,11 +4,10 @@ I like to build software. I like to listen, play and compose music.
 ### Contributing...
 
 * [Raycast Extension](https://github.com/raycast/extensions)
-  * Chatwork Search(creator)
-  * Sequel Ace(creator)
-  * TablePlus(contoributor)
+  * [Chatwork Search(creator)](https://www.raycast.com/nagauta/chatwork-search)
+  * [Sequel Ace(creator)](https://www.raycast.com/nagauta/chatwork-search)
+  * [TablePlus(contoributor)](https://www.raycast.com/pernielsentikaer/tableplus)
 
-[Raycast Store](https://www.raycast.com/nagauta)
 
 * [Snippet Explorer](https://github.com/raycast/snippet-explorer)
   * I proposed some snippets...
