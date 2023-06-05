@@ -5,7 +5,7 @@ I like to build software. I like to listen, play and compose music.
 
 * [Raycast Extension](https://github.com/raycast/extensions)
   * [Chatwork Search(creator)](https://www.raycast.com/nagauta/chatwork-search)
-  * [Sequel Ace(creator)](https://www.raycast.com/nagauta/chatwork-search)
+  * [Sequel Ace(creator)](https://www.raycast.com/nagauta/sequel-ace)
   * [TablePlus(contoributor)](https://www.raycast.com/pernielsentikaer/tableplus)
 
 
