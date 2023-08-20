@@ -21,3 +21,5 @@ I like to build software. I like to listen, play and compose music.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagauta&layout=compact&theme=tokyonight" />
 </p>
 
+<!--START_SECTION:lapras-card-->
+<!--END_SECTION:lapras-card-->
