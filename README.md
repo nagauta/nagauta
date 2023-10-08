@@ -4,7 +4,7 @@ I like to build software. I like to listen, play and compose music.
 ### Contributing...
 <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/sequel-ace"><img src="https://www.raycast.com/nagauta/sequel-ace/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
-<a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/tableplus"><img src="https://www.raycast.com/nagauta/tableplus/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+<a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/nippon-colors"><img src="https://www.raycast.com/nagauta/nippon-colors/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
 ### Information
 <p align="left"> 
