@@ -1,5 +1,5 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
-I love writing code to produce something valuable.<br> I also love to listen, play and compose music.
+I love writing code to produce something valuable.<br> Music is the source of me.<br> [here is my playlist](https://music.apple.com/jp/playlist/favorites-2023/pl.u-KVXBBK1FZkDR55b)
 
 ### Contributing...
 <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
