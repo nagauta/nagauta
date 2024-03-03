@@ -1,5 +1,6 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
 I love writing code to produce something valuable.<br> Music is the source of me.<br> [here is my playlist](https://music.apple.com/jp/playlist/favorites-2023/pl.u-KVXBBK1FZkDR55b)
+<a title="here is my playlist" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://marketing.services.apple/api/storage/images/6408fd8630506600073b0d7e/en-us-large@1x.png"></a>
 
 ### Contributing...
 <a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
