@@ -1,11 +1,11 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
 I love writing code to produce something valuable.<br> Music is the source of me.<br> [here is my playlist](https://music.apple.com/jp/playlist/favorites-2023/pl.u-KVXBBK1FZkDR55b)
-<a title="here is my playlist" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://marketing.services.apple/api/storage/images/6408fd8630506600073b0d7e/en-us-large@1x.png"></a>
+<iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;border-radius:10px;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/jp/playlist/favorites-2023/pl.u-KVXBBK1FZkDR55b"></iframe>
 
 ### Contributing...
-<a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
-<a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/sequel-ace"><img src="https://www.raycast.com/nagauta/sequel-ace/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
-<a title="Install raycast-bard-ai Raycast Extension" href="https://www.raycast.com/nagauta/nippon-colors"><img src="https://www.raycast.com/nagauta/nippon-colors/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+<a title="Install chatwork-search Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+<a title="Install sequel-ace Raycast Extension" href="https://www.raycast.com/nagauta/sequel-ace"><img src="https://www.raycast.com/nagauta/sequel-ace/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
+<a title="Install nippon-colors Raycast Extension" href="https://www.raycast.com/nagauta/nippon-colors"><img src="https://www.raycast.com/nagauta/nippon-colors/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 
 ### Information
 <p align="left"> 
