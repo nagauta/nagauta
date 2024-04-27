@@ -1,7 +1,7 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
 I love writing code to produce something valuable.<br> Music is the source of me.
 
-### Contributing...
+### Contributing to the product I love...
 <a title="Install chatwork-search Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a title="Install sequel-ace Raycast Extension" href="https://www.raycast.com/nagauta/sequel-ace"><img src="https://www.raycast.com/nagauta/sequel-ace/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
 <a title="Install nippon-colors Raycast Extension" href="https://www.raycast.com/nagauta/nippon-colors"><img src="https://www.raycast.com/nagauta/nippon-colors/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
