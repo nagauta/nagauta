@@ -1,7 +1,7 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
 I love writing code to produce something valuable.<br> Music is the source of me.
 I'm an oss contributor for Raycast Extensions and I love Raycast! 
-<a title="Install nippon-colors Raycast Extension" href="https://www.raycast.com/nagauta"><img src="https://www.raycast.com/api/profile-og?handle=nagauta" height="128" alt="" style="height: 128px;"></a>
+<a title="Install nippon-colors Raycast Extension" href="https://www.raycast.com/nagauta"><img src="https://www.raycast.com/api/profile-og?handle=nagauta" height="256" alt="" style="height: 256px;"></a>
 
 ### Information
 <p align="left"> 
