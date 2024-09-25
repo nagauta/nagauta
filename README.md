@@ -1,6 +1,6 @@
 ## Hi I'm nagauta, software engneer in Tokyo 😴
 I love writing code to produce something valuable.<br> Music is the source of me.
-<br> tryin' hack, loving the word: "All the world's a stage, And all the men and women merely players"
+<br> love the word: "All the world's a stage, And all the men and women merely players"
 
 ### Contributing to Raycast Extensions
 <a title="Install chatwork-search Raycast Extension" href="https://www.raycast.com/nagauta/chatwork-search"><img src="https://www.raycast.com/nagauta/chatwork-search/install_button@2x.png" height="64" alt="" style="height: 64px;"></a>
